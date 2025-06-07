@@ -1,0 +1,9 @@
+[server]
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideMenu = true
+hideToolbar = true
